@@ -1,0 +1,2 @@
+def dominoPiling(M, N):
+    return M*N//2
